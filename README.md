@@ -6,5 +6,6 @@
 - 👀 I’m interested in Python, Go
 - 🌱 I’m currently learning Go, CV
 - 📫 How to reach me 1972zheng1224@gmail.com
+- 竹杖芒鞋轻胜马,谁怕?一蓑烟雨任平生!
 
 ![alt](https://gifburg.com/images/gifs/anime/webp/0006.webp)
