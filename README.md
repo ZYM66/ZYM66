@@ -13,7 +13,7 @@
 - 👋 Hi, I’m @ZYM66
 - 👀 Interested in Python, Go
 - 🌱 Currently learning Go, Transformers
-- 📫 Reach me 1972zheng1224@gmail.com
+- 📫 Reach me yimingzheng365@gmail.com
 - 竹杖芒鞋轻胜马,谁怕?一蓑烟雨任平生!
 
 
