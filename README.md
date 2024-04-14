@@ -6,7 +6,7 @@
   </div>
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
   
-## 你好打工人!
+## Yiming Zheng
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZYM66&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
