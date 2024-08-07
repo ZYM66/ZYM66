@@ -10,8 +10,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZYM66&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 👋 Hi, I’m @ZYM66
-- 👀 Interested in Python, Go
+- 👋 Hi, I’m YimingZheng
 - 🌱 Currently learning Go, Transformers
 - 📫 Reach me yimingzheng365@gmail.com
 - 竹杖芒鞋轻胜马,谁怕?一蓑烟雨任平生!
