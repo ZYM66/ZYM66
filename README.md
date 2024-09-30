@@ -1,11 +1,18 @@
-# Yiming Zheng
+# Hi! I’m Yiming Zheng
 
-## Research interest
-Robust Reasoning, MultiModal, Large Language Models(LLMs)
+## Research Interest
+- Robust Reasoning
+- MultiModal
+- Large Language Models (LLMs)
+
 ## Education
-0 year master in SIAT(Shenzhen Institute of Advanced Technology)
+
+| **SIAT (Shenzhen Institute of Advanced Technology)**  | <img width="150" style="border-radius: 10px;" src="https://github.com/user-attachments/assets/b702f4d6-d826-463f-8a97-e98c8bc10f20" alt="SIAT logo"> |
+| :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------: |
+| *Duration*                                           |                    *2025.09 - present*                                                                                          |
+| *Research Focus*                                                  |               *Voice Signal Processing*                                                                                               |
+|*Dgree*|*Master*|
 
 
-
-
-
+## Contact
+- Email: [yimingzheng365@gmail.com](mailto:yimingzheng365@gmail.com)
