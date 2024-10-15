@@ -10,7 +10,7 @@
 | **SIAT (Shenzhen Institute of Advanced Technology)**  | <img width="150" style="border-radius: 10px;" src="https://github.com/user-attachments/assets/b702f4d6-d826-463f-8a97-e98c8bc10f20" alt="SIAT logo"> |
 | :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------: |
 | *Duration*                                           |                    *2025.09 - present*                                                                                          |
-| *Research Focus*                                                  |               *Voice Signal Processing*                                                                                               |
+| *Research Focus*                                                  |                                                                                                              |
 |*Dgree*|*Master*|
 
 
